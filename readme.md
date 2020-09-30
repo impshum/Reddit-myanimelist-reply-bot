@@ -2,7 +2,7 @@
 
 Streams comments and replies with myanimelist info if a title if found between curly brackets.
 
-![](mal.jpg)
+<img src='mal.jpg' width='100%'>
 
 User comment
 
