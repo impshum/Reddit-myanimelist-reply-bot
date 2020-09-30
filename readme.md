@@ -31,7 +31,6 @@ Bot reply
 
 -   Install requirements `pip install -r requirements.txt`
 -   Create Reddit (script) app at <https://www.reddit.com/prefs/apps/> and get keys
--   Get an API key from <https://openweathermap.org>
 -   Edit conf.ini with your details
 -   Run it `python3 run.py`
 
