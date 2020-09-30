@@ -1,8 +1,7 @@
 ## Reddit myanimelist reply bot
 
-Streams comments and replies with myanimelist info if a title if found between curly brackets.
+Streams comments and replies with myanimelist info if a title is found between curly brackets. Can handle multiple titles.
 
-<img src='mal.jpg' width='100%'>
 
 User comment
 
